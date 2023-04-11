@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* open-sans-regular - latin */
 @font-face {
   font-family: 'Open Sans';
@@ -2678,3 +2679,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 @media only screen and (min-width: 992px) {
   #navbarSupportedContentMovi {
     display: none !important; } }
+@media (min-width: 768px) {
+  /* Ocultar el segundo menú cuando la pantalla es de 768px o más */
+  #navbarSupportedContentMovi {
+    display: none; } }
