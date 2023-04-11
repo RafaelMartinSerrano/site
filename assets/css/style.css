@@ -2637,14 +2637,11 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 .navbar-nav {
   margin: 0; }
 
-@media screen and (min-width: 992px) {
-  .mobile-navigation {
-    display: none; }
-
-  .desktop-navigation {
-    display: block; } }
-@media screen and (max-width: 991px) {
-  .desktop-navigation {
+@media (min-width: 992px) {
+  .mobile-menu {
+    display: none; } }
+@media (max-width: 991px) {
+  .desktop-menu {
     display: none; } }
 @media only screen and (max-width: 767px) {
   .navbar-collapse {
