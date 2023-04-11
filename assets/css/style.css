@@ -2637,6 +2637,12 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 .navbar-nav {
   margin: 0; }
 
+@media screen and (min-width: 992px) {
+  .mobile-navigation {
+    display: none; } }
+@media screen and (max-width: 991px) {
+  .desktop-navigation {
+    display: none; } }
 @media only screen and (max-width: 767px) {
   .navbar-collapse {
     flex-basis: 100%;
