@@ -100,3 +100,8 @@
     display: none !important;
   }
 }
+@media (min-width: 768px) { /* Ocultar el segundo menú cuando la pantalla es de 768px o más */
+  #navbarSupportedContentMovi {
+    display: none;
+  }
+}
