@@ -75,10 +75,10 @@
   }
 }
 
-.header-toggles {
-  display: none;
+.language-toggle-container {
+    display: none !important;
+    margin: 0;
 }
-
 .navbar-light .navbar-nav .nav-link {
   color:black;
   font-weight: 200;
