@@ -2642,8 +2642,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
     flex-basis: 100%;
     flex-grow: 1;
     display: block;
-    background-color: blue;
-    /* background: red; */
+    background-color: #32c0e3;
     border: 2px solid black;
     align-items: center; } }
 .navbar-light .navbar-nav .nav-link {
