@@ -1,3 +1,4 @@
+
 {% include multilingual-js.html key="header" %}
 <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">{{ page.t.header.skip_link }}</a>
 {% include components/header/internet-explorer-message.html %}
@@ -11,19 +12,15 @@
             {% include components/header/logo.html %}
             
             <div class=" d-flex justify-content-between">
-                <div class="desktop-navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ page.t.header.show_menu }}">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     {% include navigation.html dropdowns=true %}
                 </div>
-                
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="mobile-nav" aria-expanded="false" aria-label="{{ page.t.header.show_menu }}">  <span class="navbar-toggler-icon"></span>
-                </button>
-                
-               
-                
                 <div class="search-bar">
                     {% include search.html %}
                 </div>
-                
                 <div class="header-toggles d-flex">
                     {%- if site.languages.size > 1 and site.header_language_toggle != 'none' -%}
                     {% include components/language-toggle.html %}
@@ -33,9 +30,7 @@
                 </div>
                 
             </div>
-             <div class="collapse navbar-collapse mobile-navigation" id="navbarSupportedContent">
-                    {% include navigation.html dropdowns=true %}
-                </div>
+           
         </nav>
     </div>
 </header>
