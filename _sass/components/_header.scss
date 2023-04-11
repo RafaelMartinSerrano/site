@@ -36,11 +36,7 @@
 .navbar-nav {
     margin: 0;
 }
-@media (max-width: 767px) {
-  .navbar-expand-lg {
-    display: none;
-  }
-}
+
 @media only screen and (max-width: 767px) {
   .navbar-collapse {
     flex-basis: 100%;
@@ -52,6 +48,25 @@
     align-items: center;
   }
 }
+
+@media (max-width: 992px) {
+  .navbar-collapse-second {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-expand-lg .navbar-collapse:first-child {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-expand-lg .mobile-menu {
+    display: block;
+  }
+}
+
 .navbar-light .navbar-nav .nav-link {
   color:black;
   font-weight: 200;
