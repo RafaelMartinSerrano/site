@@ -40,6 +40,9 @@
   .mobile-navigation {
     display: none;
   }
+  .desktop-navigation {
+    display: block;
+  }
 }
 
 @media screen and (max-width: 991px) {
