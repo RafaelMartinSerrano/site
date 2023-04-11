@@ -2651,6 +2651,9 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
     display: none; } }
 @media (max-width: 992px) {
   .navbar-collapse-second {
+    display: none; }
+
+  .navbar-expand-lg .mobile-menu {
     display: none; } }
 @media (max-width: 767px) {
   .navbar-expand-lg .navbar-collapse:first-child {
@@ -2658,6 +2661,9 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 @media (max-width: 767px) {
   .navbar-expand-lg .mobile-menu {
     display: block; } }
+.header-toggles {
+  display: none; }
+
 .navbar-light .navbar-nav .nav-link {
   color: black;
   font-weight: 200; }
