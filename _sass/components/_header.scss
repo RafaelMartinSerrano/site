@@ -10,7 +10,7 @@
 }
 
 
-//Menú nav-bar
+//Menu nav-bar
 #menu {
   margin: 0;
 }
@@ -35,17 +35,6 @@
 
 .navbar-nav {
     margin: 0;
-}
-@media only screen and (max-width: 767px) {
-  .navbar-collapse {
-    flex-basis: 100%;
-    flex-grow: 1;
-    display: block;
-    display: inline-block;
-    background-color: #32c0e3;
-    border: 2px solid black;
-    align-items: center;
-  }
 }
 .navbar-light .navbar-nav .nav-link {
   color:black;
