@@ -10,10 +10,11 @@
     <div class="">
         <nav class="navbar-expand-lg navbar-light flex-wrap align-items-start">
             {% include components/header/logo.html %}
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ page.t.header.show_menu }}">
+            
+            <div class=" d-flex justify-content-between">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ page.t.header.show_menu }}">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class=" d-flex justify-content-between">
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     {% include navigation.html dropdowns=true %}
                 </div>
@@ -28,6 +29,9 @@
                     {% include components/contrast-toggle.html %}
                 </div>
             </div>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    {% include navigation.html dropdowns=true %}
+                </div>
         </nav>
     </div>
 </header>
