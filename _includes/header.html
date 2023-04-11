@@ -18,9 +18,7 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="mobile-nav" aria-expanded="false" aria-label="{{ page.t.header.show_menu }}">  <span class="navbar-toggler-icon"></span>
                 </button>
                 
-                <div class="collapse navbar-collapse mobile-navigation" id="navbarSupportedContent">
-                    {% include navigation.html dropdowns=true %}
-                </div>
+               
                 
                 <div class="search-bar">
                     {% include search.html %}
@@ -33,7 +31,9 @@
                     {%- endif -%}
                     {% include components/contrast-toggle.html %}
                 </div>
-                
+                 <div class="collapse navbar-collapse mobile-navigation" id="navbarSupportedContent">
+                    {% include navigation.html dropdowns=true %}
+                </div>
             </div>
             
         </nav>
