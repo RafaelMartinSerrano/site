@@ -2665,6 +2665,6 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
     background-color: #32c0e3;
     border: 2px solid black;
     align-items: center; } }
-@media (min-width: 768px) {
+@media only screen and (min-width: 768px) {
   #navbarSupportedContentMovi {
     display: none; } }
