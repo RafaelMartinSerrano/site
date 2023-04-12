@@ -86,11 +86,6 @@
 //Ocultar el segundo menú cuando la pantalla es de 768px o más//
 
 
-@media only screen and (min-width: 768px) {
-  #navbarSupportedContentMovi {
-    display: none;
-  }
-}
 @media (max-width: 992px) {
   .navbar-collapse-second {
     display: none;
@@ -99,9 +94,5 @@
     display: none;
   }
 }
-@media only screen and (min-width: 992px) {
-  #navbarSupportedContentMovi {
-    display: none !important;
-  }
-}
+
 
