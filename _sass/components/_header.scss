@@ -67,9 +67,9 @@
     margin: 0;
 }
 
-//media queries
+//Media queries/
 
-//estilo segundo menu movil/
+//estilo segundo menu movil//
 
 @media only screen and (max-width: 767px) {
   .navbar-collapse {
@@ -83,11 +83,11 @@
   }
 }
 
-/* Ocultar el segundo menú cuando la pantalla es de 768px o más */
+//Ocultar el segundo menú cuando la pantalla es de 768px o más//
 
-@media only screen and (min-width: 992px) {
+@media (min-width: 768px) { 
   #navbarSupportedContentMovi {
-    display: none !important;
+    display: none;
   }
 }
 
