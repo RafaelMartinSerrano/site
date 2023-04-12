@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /* open-sans-regular - latin */
 @font-face {
   font-family: 'Open Sans';
@@ -2666,7 +2665,6 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
     background-color: #32c0e3;
     border: 2px solid black;
     align-items: center; } }
-/* Ocultar el segundo menú cuando la pantalla es de 768px o más */
-@media only screen and (min-width: 992px) {
+@media (min-width: 768px) {
   #navbarSupportedContentMovi {
-    display: none !important; } }
+    display: none; } }
