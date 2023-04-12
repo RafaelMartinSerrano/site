@@ -36,49 +36,6 @@
 .navbar-nav {
     margin: 0;
 }
-
-@media only screen and (max-width: 767px) {
-  .navbar-collapse {
-    flex-basis: 100%;
-    flex-grow: 1;
-    display: block;
-    display: inline-block;
-    background-color: #32c0e3;
-    border: 2px solid black;
-    align-items: center;
-  }
-}
-
-@media only screen and (min-width: 768px) {
-  #navbarSupportedContentMovi {
-    display: none;
-  }
-}
-@media (max-width: 992px) {
-  .navbar-collapse-second {
-    display: none;
-  }
-   .navbar-expand-lg .mobile-menu {
-    display: none;
-  }
-}
-
-@media (max-width: 767px) {
-  .navbar-expand-lg .navbar-collapse:first-child {
-    display: none;
-  }
-}
-
-@media (max-width: 767px) {
-  .navbar-expand-lg .mobile-menu {
-    display: block;
-  }
-}
-
-.language-toggle-container {
-    display: none !important;
-    margin: 0;
-}
 .navbar-light .navbar-nav .nav-link {
   color:black;
   font-weight: 200;
@@ -95,13 +52,25 @@
 
 }
 
-@media only screen and (min-width: 992px) {
-  #navbarSupportedContentMovi {
+//Ocultar traducción
+
+.language-toggle-container {
     display: none !important;
-  }
+    margin: 0;
 }
-@media (min-width: 768px) { /* Ocultar el segundo menú cuando la pantalla es de 768px o más */
-  #navbarSupportedContentMovi {
-    display: none;
+
+//media queries
+
+//estilo segundo menu movil/
+
+@media only screen and (max-width: 767px) {
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    display: block;
+    display: inline-block;
+    background-color: #32c0e3;
+    border: 2px solid black;
+    align-items: center;
   }
 }
