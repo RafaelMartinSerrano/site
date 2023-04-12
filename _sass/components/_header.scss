@@ -85,8 +85,9 @@
 
 /* Ocultar el segundo menú cuando la pantalla es de 768px o más */
 
-@media (min-width: 768px) { 
+@media only screen and (min-width: 992px) {
   #navbarSupportedContentMovi {
-    display: none;
+    display: none !important;
   }
 }
+
