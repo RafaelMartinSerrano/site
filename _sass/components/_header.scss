@@ -52,6 +52,14 @@
 
 }
 
+//Espacio entre elementos
+
+.navbar-toggler {
+    margin-top: 0.325rem;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 //Ocultar traducción
 
 .language-toggle-container {
@@ -72,5 +80,13 @@
     background-color: #32c0e3;
     border: 2px solid black;
     align-items: center;
+  }
+}
+
+/* Ocultar el segundo menú cuando la pantalla es de 768px o más */
+
+@media (min-width: 768px) { 
+  #navbarSupportedContentMovi {
+    display: none;
   }
 }
