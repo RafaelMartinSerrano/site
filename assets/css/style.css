@@ -2671,6 +2671,6 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 
   .navbar-expand-lg .mobile-menu {
     display: none; } }
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 768px) {
   #navbarSupportedContentMovi {
-    display: none !important; } }
+    display: none; } }
