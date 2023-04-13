@@ -2652,10 +2652,6 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
   margin-left: 10px;
   margin-right: 10px; }
 
-.language-toggle-container {
-  display: none !important;
-  margin: 0; }
-
 @media only screen and (max-width: 767px) {
   .navbar-collapse {
     flex-basis: 100%;
