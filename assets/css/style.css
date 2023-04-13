@@ -2677,3 +2677,12 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 @media only screen and (min-width: 992px) {
   #navbarSupportedContentMovi {
     display: none !important; } }
+.backToTop {
+  background-color: blue;
+  padding: 5px;
+  display: inline-block;
+  color: white;
+  border-radius: 8.5px; }
+
+.app-c-back-to-top__icon {
+  display: none; }
