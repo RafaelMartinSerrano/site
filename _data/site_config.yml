@@ -204,12 +204,21 @@ metadata_tabs:
   - scope: sources
     title: indicator.sources
     description: ''
+meta_tags: []
 news:
   category_links: false
 progress_status:
   status_heading: ''
   status_help: ''
   status_types: []
+progressive_web_app:
+  enabled: false
+  name: ''
+  short_name: ''
+  precaching: false
+proxy_indicators:
+  label: ''
+  description: ''
 remote_data_prefix: 'https://rafaelmartinserrano.github.io/data/'
 reporting_status:
   title: status.reporting_status
