@@ -5,9 +5,9 @@ permalink: es/about/
 layout: page
 ---
 ## Tabla de contenidos
-- [Acerca de este sitio](#about-this-site)
-- [¿Necesitas más informacion?](#need-more-info)
-- [Comentarios](#feedback)
+- Acerca de este sitio
+- ¿Necesitas más informacion?
+- Comentarios
 
 
 Los  [Objetivos de Desarrollo Sostenible](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDGs)  son un llamado universal a la acción para:
