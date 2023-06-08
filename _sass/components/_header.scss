@@ -10,7 +10,7 @@
 }
 
 
-//Menú nav-bar
+//Menu nav-bar
 #menu {
   margin: 0;
 }
@@ -56,32 +56,34 @@
 //Espacio entre elementos
 
 .navbar-toggler {
-    margin-top: 0.325rem;
+    margin-top: 0px;
     margin-left: 10px;
     margin-right: 10px;
+    padding: 5px;
 }
+
 
 
 //Media queries/
 
 //estilo segundo menu movil//
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 991px) {
   .navbar-collapse {
     flex-basis: 100%;
     flex-grow: 1;
     display: block;
     display: inline-block;
     background-color: #32c0e3;
-    border: 2px solid black;
+    border: 1px solid grey;
     align-items: center;
   }
 }
 
-//Ocultar el segundo menú cuando la pantalla es de 768px o más//
+//Ocultar el segundo menú cuando la pantalla es de 991px o más//
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 991px) {
   #navbarSupportedContentMovi {
     display: none;
   }
