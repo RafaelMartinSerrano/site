@@ -2620,7 +2620,8 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 .d-flex {
   background-color: #32c0e3;
   align-items: center;
-  padding: 5px 30px; }
+  padding: 5px 30px;
+  width: 200%; }
 
 .no-js-language-toggle {
   display: none; }
