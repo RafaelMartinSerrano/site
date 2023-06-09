@@ -129,7 +129,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20230609102852">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20230609123525">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -324,10 +324,14 @@ data-event-label="high"
 
 
 
-  <div class="container g-0 ">
+  <div class="container g-0 goal-showing-progress">
     <div class="row align-items-end">
       <div class="col">
         <h2 class="goal-page-heading">Metas e indicadores</h2>
+      </div>
+      
+      <div class="col-lg-2 d-none d-lg-block progress-column-header">
+        <span aria-hidden="true">¿Cómo vamos con respecto al objetivo del 2030?</span>
       </div>
       
     </div>
@@ -343,6 +347,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">De aquí a 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -361,7 +367,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/site/es/6-1-1">Proportion of population using safely managed drinking water services</a></span>
+              <span class="indicator-name"><a href="/site/es/6-1-1">Consumo de litros de agua por habitante y día</a></span>
               
 
 
@@ -373,8 +379,8 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
+<span class="status complete">
+    <span class="status-inner">Informado</span>
 </span>
 
 
@@ -383,23 +389,17 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
+
+
+            </div>
+            
             
           </div>
-        
-        <hr class="goal-page-target-rule" />
-    
-      
-      <div class="row align-items-start goal-target">
-          <div class="col-auto goal-page-target-number">
-            <h3 class="goal-target">
-              <span class="target-number"><span class="visually-hidden">Meta</span> 6.2</span>
-            </h3>
-          </div>
-          <div class="col goal-page-target-name">
-            <span class="target-name">De aquí a 2030, lograr el acceso a servicios de saneamiento e higiene adecuados y equitativos para todos y poner fin a la defecación al aire libre, prestando especial atención a las necesidades de las mujeres y las niñas y las personas en situaciones de vulnerabilidad</span>
-          </div>
-          
-      </div>
         
 
           
@@ -411,12 +411,12 @@ data-event-label="high"
           
             <div class="col-auto goal-page-indicator-number">
               <h4>
-                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.2.1</span>
+                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.1.2</span>
               </h4>
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/site/es/6-2-1">Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</a></span>
+              <span class="indicator-name"><a href="/site/es/6-1-2">Consumo de litros de agua doméstica por habitante y día</a></span>
               
 
 
@@ -428,12 +428,21 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
+<span class="status complete">
+    <span class="status-inner">Informado</span>
 </span>
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
 
 
             </div>
@@ -454,6 +463,8 @@ data-event-label="high"
             <span class="target-name">De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial</span>
           </div>
           
+          <div class="col-lg-2 d-none d-lg-block"></div>
+          
       </div>
         
 
@@ -471,7 +482,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/site/es/6-3-1">Proportion of domestic and industrial wastewater flows safely treated</a></span>
+              <span class="indicator-name"><a href="/site/es/6-3-1">Caudal diario de las aguas residuales</a></span>
               
 
 
@@ -483,12 +494,21 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
+<span class="status complete">
+    <span class="status-inner">Informado</span>
 </span>
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
 
 
             </div>
@@ -511,7 +531,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/site/es/6-3-2">Proportion of bodies of water with good ambient water quality</a></span>
+              <span class="indicator-name"><a href="/site/es/6-3-2">Sustancias sólidas eliminadas</a></span>
               
 
 
@@ -523,8 +543,8 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
+<span class="status complete">
+    <span class="status-inner">Informado</span>
 </span>
 
 
@@ -533,152 +553,11 @@ data-event-label="high"
 
             </div>
             
-            
-          </div>
-        
-        <hr class="goal-page-target-rule" />
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
     
-      
-      <div class="row align-items-start goal-target">
-          <div class="col-auto goal-page-target-number">
-            <h3 class="goal-target">
-              <span class="target-number"><span class="visually-hidden">Meta</span> 6.4</span>
-            </h3>
-          </div>
-          <div class="col goal-page-target-name">
-            <span class="target-name">De aquí a 2030, aumentar considerablemente el uso eficiente de los recursos hídricos en todos los sectores y asegurar la sostenibilidad de la extracción y el abastecimiento de agua dulce para hacer frente a la escasez de agua y reducir considerablemente el número de personas que sufren falta de agua</span>
-          </div>
-          
-      </div>
-        
-
-          
-          
-          
-          
-
-          <div class="row align-items-start goal-indicator">
-          
-            <div class="col-auto goal-page-indicator-number">
-              <h4>
-                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.4.1</span>
-              </h4>
-            </div>
-            <div class="col goal-page-indicator-name">
-              
-              <span class="indicator-name"><a href="/site/es/6-4-1">Change in water-use efficiency over time</a></span>
-              
-
-
-
-
-    <ul class="tags list-unstyled list-inline" aria-label="Etiquetas"><li class="list-inline-item">
-        <span class="visually-hidden">Estado del indicador</span>
-        
-
-
-
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
-</span>
-
-
-        </li></ul>
-
-
-            </div>
-            
-            
-          </div>
-        
-
-          
-          
-          
-          
-
-          <div class="row align-items-start goal-indicator">
-          
-            <div class="col-auto goal-page-indicator-number">
-              <h4>
-                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.4.2</span>
-              </h4>
-            </div>
-            <div class="col goal-page-indicator-name">
-              
-              <span class="indicator-name"><a href="/site/es/6-4-2">Level of water stress: freshwater withdrawal as a proportion of available freshwater resources</a></span>
-              
-
-
-
-
-    <ul class="tags list-unstyled list-inline" aria-label="Etiquetas"><li class="list-inline-item">
-        <span class="visually-hidden">Estado del indicador</span>
-        
-
-
-
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
-</span>
-
-
-        </li></ul>
-
-
-            </div>
-            
-            
-          </div>
-        
-        <hr class="goal-page-target-rule" />
     
-      
-      <div class="row align-items-start goal-target">
-          <div class="col-auto goal-page-target-number">
-            <h3 class="goal-target">
-              <span class="target-number"><span class="visually-hidden">Meta</span> 6.5</span>
-            </h3>
-          </div>
-          <div class="col goal-page-target-name">
-            <span class="target-name">De aquí a 2030, implementar la gestión integrada de los recursos hídricos a todos los niveles, incluso mediante la cooperación transfronteriza, según proceda</span>
-          </div>
-          
-      </div>
-        
-
-          
-          
-          
-          
-
-          <div class="row align-items-start goal-indicator">
-          
-            <div class="col-auto goal-page-indicator-number">
-              <h4>
-                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.5.1</span>
-              </h4>
-            </div>
-            <div class="col goal-page-indicator-name">
-              
-              <span class="indicator-name"><a href="/site/es/6-5-1">Degree of integrated water resources management</a></span>
-              
-
-
-
-
-    <ul class="tags list-unstyled list-inline" aria-label="Etiquetas"><li class="list-inline-item">
-        <span class="visually-hidden">Estado del indicador</span>
-        
-
-
-
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
-</span>
-
-
-        </li></ul>
 
 
             </div>
@@ -696,12 +575,12 @@ data-event-label="high"
           
             <div class="col-auto goal-page-indicator-number">
               <h4>
-                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.5.2</span>
+                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.3.3</span>
               </h4>
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/site/es/6-5-2">Proportion of transboundary basin area with an operational arrangement for water cooperation</a></span>
+              <span class="indicator-name"><a href="/site/es/6-3-3">Reducción de DBO5</a></span>
               
 
 
@@ -713,12 +592,70 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
+<span class="status complete">
+    <span class="status-inner">Informado</span>
 </span>
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
+
+
+            </div>
+            
+            
+          </div>
+        
+
+          
+          
+          
+          
+
+          <div class="row align-items-start goal-indicator">
+          
+            <div class="col-auto goal-page-indicator-number">
+              <h4>
+                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.3.4</span>
+              </h4>
+            </div>
+            <div class="col goal-page-indicator-name">
+              
+              <span class="indicator-name"><a href="/site/es/6-3-4">Reducción de DQO</a></span>
+              
+
+
+
+
+    <ul class="tags list-unstyled list-inline" aria-label="Etiquetas"><li class="list-inline-item">
+        <span class="visually-hidden">Estado del indicador</span>
+        
+
+
+
+<span class="status complete">
+    <span class="status-inner">Informado</span>
+</span>
+
+
+        </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
 
 
             </div>
@@ -739,6 +676,8 @@ data-event-label="high"
             <span class="target-name">De aquí a 2020, proteger y restablecer los ecosistemas relacionados con el agua, incluidos los bosques, las montañas, los humedales, los ríos, los acuíferos y los lagos</span>
           </div>
           
+          <div class="col-lg-2 d-none d-lg-block"></div>
+          
       </div>
         
 
@@ -756,7 +695,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/site/es/6-6-1">Change in the extent of water-related ecosystems over time</a></span>
+              <span class="indicator-name"><a href="/site/es/6-6-1">Porcentaje de playas con calificación excelente</a></span>
               
 
 
@@ -768,12 +707,21 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
+<span class="status complete">
+    <span class="status-inner">Informado</span>
 </span>
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
 
 
             </div>
@@ -794,6 +742,8 @@ data-event-label="high"
             <span class="target-name">De aquí a 2030, ampliar la cooperación internacional y el apoyo prestado a los países en desarrollo para la creación de capacidad en actividades y programas relativos al agua y el saneamiento, como los de captación de agua, desalinización, uso eficiente de los recursos hídricos, tratamiento de aguas residuales, reciclado y tecnologías de reutilización</span>
           </div>
           
+          <div class="col-lg-2 d-none d-lg-block"></div>
+          
       </div>
         
 
@@ -811,7 +761,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/site/es/6-a-1">Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan</a></span>
+              <span class="indicator-name"><a href="/site/es/6-a-1">Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 6</a></span>
               
 
 
@@ -823,8 +773,8 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
+<span class="status complete">
+    <span class="status-inner">Informado</span>
 </span>
 
 
@@ -833,23 +783,17 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
+
+
+            </div>
+            
             
           </div>
-        
-        <hr class="goal-page-target-rule" />
-    
-      
-      <div class="row align-items-start goal-target">
-          <div class="col-auto goal-page-target-number">
-            <h3 class="goal-target">
-              <span class="target-number"><span class="visually-hidden">Meta</span> 6.b</span>
-            </h3>
-          </div>
-          <div class="col goal-page-target-name">
-            <span class="target-name">Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento</span>
-          </div>
-          
-      </div>
         
 
           
@@ -861,12 +805,12 @@ data-event-label="high"
           
             <div class="col-auto goal-page-indicator-number">
               <h4>
-                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.b.1</span>
+                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.a.2</span>
               </h4>
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/site/es/6-b-1">Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</a></span>
+              <span class="indicator-name"><a href="/site/es/6-a-2">Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 6</a></span>
               
 
 
@@ -878,12 +822,119 @@ data-event-label="high"
 
 
 
-<span class="status notstarted">
-    <span class="status-inner">Explorando fuentes de datos</span>
+<span class="status complete">
+    <span class="status-inner">Informado</span>
 </span>
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
+
+
+            </div>
+            
+            
+          </div>
+        
+
+          
+          
+          
+          
+
+          <div class="row align-items-start goal-indicator">
+          
+            <div class="col-auto goal-page-indicator-number">
+              <h4>
+                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.a.3</span>
+              </h4>
+            </div>
+            <div class="col goal-page-indicator-name">
+              
+              <span class="indicator-name"><a href="/site/es/6-a-3">Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 6</a></span>
+              
+
+
+
+
+    <ul class="tags list-unstyled list-inline" aria-label="Etiquetas"><li class="list-inline-item">
+        <span class="visually-hidden">Estado del indicador</span>
+        
+
+
+
+<span class="status complete">
+    <span class="status-inner">Informado</span>
+</span>
+
+
+        </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
+
+
+            </div>
+            
+            
+          </div>
+        
+
+          
+          
+          
+          
+
+          <div class="row align-items-start goal-indicator">
+          
+            <div class="col-auto goal-page-indicator-number">
+              <h4>
+                <span class="indicator-number"><span class="visually-hidden">Indicador</span> 6.a.4</span>
+              </h4>
+            </div>
+            <div class="col goal-page-indicator-name">
+              
+              <span class="indicator-name"><a href="/site/es/6-a-4">Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 6</a></span>
+              
+
+
+
+
+    <ul class="tags list-unstyled list-inline" aria-label="Etiquetas"><li class="list-inline-item">
+        <span class="visually-hidden">Estado del indicador</span>
+        
+
+
+
+<span class="status complete">
+    <span class="status-inner">Informado</span>
+</span>
+
+
+        </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden"></span>
+              
+    
+    
 
 
             </div>
@@ -967,12 +1018,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Buscar';</script>
 
-<script src='/site/assets/js/sdg.js?v=20230609102852'></script>
+<script src='/site/assets/js/sdg.js?v=20230609123525'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20230609102852"></script><script>
+    <script src="/site/assets/js/custom.js?v=20230609123525"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>

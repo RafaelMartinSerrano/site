@@ -2674,6 +2674,23 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 @media only screen and (min-width: 992px) {
   #navbarSupportedContentMovi {
     display: none !important; } }
+.breadcrumb {
+  background-color: white;
+  padding: 0;
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+.site-intro {
+  margin-top: 20px;
+  padding-top: 20px; }
+
+img, svg {
+  margin-bottom: 50px;
+  vertical-align: middle;
+  margin-left: 150px;
+  margin-top: 50px; }
+
 .backToTop {
   background-color: blue;
   padding: 5px;

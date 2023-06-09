@@ -15,91 +15,131 @@
         },
         {
           "id": "1-2-1",
-          "title": "Proportion of population living below the national poverty line, by sex and age",
+          "title": "Población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-2-2",
-          "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",
+          "title": "Población en riesgo de pobreza relativa considerando el umbral nacional de pobreza según ingresos recogidos en fuentes tributarias",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "1-3-1",
-          "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
+          "id": "1-2-3",
+          "title": "Población en riesgo de pobreza y/o exclusión social considerando el umbral autonómico de pobreza: indicador AROPE",
           "description": "",
           "keywords": "",
-          "href": "/site/es/1-3-1",
-          "status": "notstarted"
+          "href": "/site/es/1-2-3",
+          "status": "complete"
         },
         {
-          "id": "1-4-1",
-          "title": "Proportion of population living in households with access to basic services",
+          "id": "1-2-4",
+          "title": "Población con carencia material severa",
           "description": "",
           "keywords": "",
-          "href": "/site/es/1-4-1",
-          "status": "notstarted"
+          "href": "/site/es/1-2-4",
+          "status": "complete"
         },
         {
-          "id": "1-4-2",
-          "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",
+          "id": "1-2-5",
+          "title": "Ratio P80/P20 en desigualdad de ingresos recogidos en fuentes tributarias",
           "description": "",
           "keywords": "",
-          "href": "/site/es/1-4-2",
-          "status": "notstarted"
+          "href": "/site/es/1-2-5",
+          "status": "complete"
         },
         {
-          "id": "1-5-1",
-          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+          "id": "1-2-6",
+          "title": "Índice de Gini de ingresos recogidos en fuentes tributarias",
           "description": "",
           "keywords": "",
-          "href": "/site/es/1-5-1",
-          "status": "notstarted"
+          "href": "/site/es/1-2-6",
+          "status": "complete"
         },
         {
-          "id": "1-5-2",
-          "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
+          "id": "1-2-7",
+          "title": "Población en niveles de pobreza alta considerando el umbral nacional de pobreza según ingresos recogidos en fuentes tributarias",
           "description": "",
           "keywords": "",
-          "href": "/site/es/1-5-2",
-          "status": "notstarted"
+          "href": "/site/es/1-2-7",
+          "status": "complete"
         },
         {
-          "id": "1-5-3",
-          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030",
+          "id": "1-2-8",
+          "title": "Hogares familiares monoparentales",
           "description": "",
           "keywords": "",
-          "href": "/site/es/1-5-3",
-          "status": "notstarted"
+          "href": "/site/es/1-2-8",
+          "status": "complete"
         },
         {
-          "id": "1-5-4",
-          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
+          "id": "1-2-9",
+          "title": "Población de 65 o más años que viven solos",
           "description": "",
           "keywords": "",
-          "href": "/site/es/1-5-4",
-          "status": "notstarted"
+          "href": "/site/es/1-2-9",
+          "status": "complete"
+        },
+        {
+          "id": "1-2-10",
+          "title": "Población de 80 o más años que viven solos",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/1-2-10",
+          "status": "complete"
+        },
+        {
+          "id": "1-2-11",
+          "title": "Hogares familiares formados exclusivamente por personas de 65 o más años",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/1-2-11",
+          "status": "complete"
+        },
+        {
+          "id": "1-2-12",
+          "title": "Población que vive en secciones censales vulnerables a nivel socioeconómico",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/1-2-12",
+          "status": "complete"
         },
         {
           "id": "1-a-1",
-          "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 1",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-a-2",
-          "title": "Proportion of total government spending on essential services (education, health and social protection)",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 1",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-a-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "1-a-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 1",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/1-a-3",
+          "status": "complete"
+        },
+        {
+          "id": "1-a-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 1",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/1-a-4",
+          "status": "complete"
         }]
     }
   },
@@ -111,115 +151,115 @@
         
         {
           "id": "2-1-1",
-          "title": "Prevalence of undernourishment",
+          "title": "Gasto anual de las personas destinado a alimentación",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "2-1-2",
-          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/2-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-1",
-          "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age",
+          "title": "Población de 5 a 14 años con retraso del crecimiento",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-2",
-          "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
+          "title": "Población de 5 a 14 años con peso insuficiente",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-3",
-          "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",
+          "title": "Población de 5 a 14 años con obesidad o sobrepeso",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-3",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "2-2-4",
+          "title": "Población de 18 o más años con sobrepeso u obesidad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-2-4",
+          "status": "complete"
         },
         {
           "id": "2-3-1",
-          "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
+          "title": "Superficie destinada a tierras cultivadas",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-3-2",
-          "title": "Average income of small-scale food producers, by sex and indigenous status",
+          "title": "Población ocupada en la agricultura",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-3-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "2-4-1",
-          "title": "Proportion of agricultural area under productive and sustainable agriculture",
+          "id": "2-3-3",
+          "title": "Proporción de agricultura ecológica",
           "description": "",
           "keywords": "",
-          "href": "/site/es/2-4-1",
-          "status": "notstarted"
+          "href": "/site/es/2-3-3",
+          "status": "complete"
         },
         {
-          "id": "2-5-1",
-          "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities",
+          "id": "2-3-4",
+          "title": "Unidades de trabajo-año en explotaciones agrícolas",
           "description": "",
           "keywords": "",
-          "href": "/site/es/2-5-1",
-          "status": "notstarted"
+          "href": "/site/es/2-3-4",
+          "status": "complete"
         },
         {
-          "id": "2-5-2",
-          "title": "Proportion of local breeds classified as being at risk of extinction",
+          "id": "2-3-5",
+          "title": "Producción de las explotaciones agrícolas",
           "description": "",
           "keywords": "",
-          "href": "/site/es/2-5-2",
-          "status": "notstarted"
+          "href": "/site/es/2-3-5",
+          "status": "complete"
         },
         {
           "id": "2-a-1",
-          "title": "The agriculture orientation index for government expenditures",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 2",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-a-2",
-          "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 2",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-a-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "2-b-1",
-          "title": "Agricultural export subsidies",
+          "id": "2-a-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 2",
           "description": "",
           "keywords": "",
-          "href": "/site/es/2-b-1",
-          "status": "notstarted"
+          "href": "/site/es/2-a-3",
+          "status": "complete"
         },
         {
-          "id": "2-c-1",
-          "title": "Indicator of food price anomalies",
+          "id": "2-a-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 2",
           "description": "",
           "keywords": "",
-          "href": "/site/es/2-c-1",
-          "status": "notstarted"
+          "href": "/site/es/2-a-4",
+          "status": "complete"
         }]
     }
   },
@@ -231,227 +271,323 @@
         
         {
           "id": "3-1-1",
-          "title": "Maternal mortality ratio",
+          "title": "Tasa de mortalidad materna",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-1-2",
-          "title": "Proportion of births attended by skilled health personnel",
+          "title": "Proporción de partos atendidos por personal sanitario especializado",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-1",
-          "title": "Under‑5 mortality rate",
+          "title": "Tasa de mortalidad de menores de 5 años",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-2",
-          "title": "Neonatal mortality rate",
+          "title": "Tasa de mortalidad neonatal",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "3-2-3",
+          "title": "Tasa de mortalidad infantil",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-2-3",
+          "status": "complete"
         },
         {
           "id": "3-3-1",
-          "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
+          "title": "Incidencia del VIH/SIDA por cada 100.000 habitantes",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-2",
-          "title": "Tuberculosis incidence per 100,000 population",
+          "title": "Incidencia de la tuberculosis por cada 100.000 habitantes",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-3",
-          "title": "Malaria incidence per 1,000 population",
+          "title": "Incidencia de la malaria por cada 100.000 habitantes",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-4",
-          "title": "Hepatitis B incidence per 100,000 population",
+          "title": "Incidencia de la hepatitis B por cada 100.000 habitantes",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-4",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-5",
-          "title": "Number of people requiring interventions against neglected tropical diseases",
+          "title": "Tasa de mortalidad atribuida al VIH/SIDA",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-5",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "3-3-6",
+          "title": "Tasa de mortalidad atribuida a la tuberculosis",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-3-6",
+          "status": "complete"
+        },
+        {
+          "id": "3-3-7",
+          "title": "Tasa de mortalidad atribuida a la hepatitis vírica",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-3-7",
+          "status": "complete"
+        },
+        {
+          "id": "3-3-8",
+          "title": "Tasa de mortalidad atribuida a enf. Infecciosas del sistema respiratorio",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-3-8",
+          "status": "complete"
         },
         {
           "id": "3-4-1",
-          "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+          "title": "Tasa de mortalidad atribuida a las enfermedades cardiovasculares",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-4-2",
-          "title": "Suicide mortality rate",
+          "title": "Tasa de mortalidad atribuida a las enfermedades respiratorias",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-4-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "3-4-3",
+          "title": "Tasa de mortalidad atribuida a la diabetes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-4-3",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-4",
+          "title": "Tasa de mortalidad atribuida al cáncer",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-4-4",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-5",
+          "title": "Tasa de mortalidad atribuida a tumores del sistema respiratorio",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-4-5",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-6",
+          "title": "Tasa de mortalidad prematura",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-4-6",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-7",
+          "title": "Esperanza de vida",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-4-7",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-8",
+          "title": "Tasa de mortalidad por suicidio",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-4-8",
+          "status": "complete"
         },
         {
           "id": "3-5-1",
-          "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",
+          "title": "Tasa de personas en tratamiento por consumo de drogas ilegales",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-5-2",
-          "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
+          "title": "Tasa de personas en tratamiento por consumo de alcohol",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-5-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "3-5-3",
+          "title": "Porcentaje de personas de 15 y más años que consume bebidas alcohólicas al menos una vez por semana",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-5-3",
+          "status": "complete"
+        },
+        {
+          "id": "3-5-4",
+          "title": "Tasa de mortalidad atribuida a trastornos mentales derivados del abuso de alcohol y drogas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-5-4",
+          "status": "complete"
         },
         {
           "id": "3-6-1",
-          "title": "Death rate due to road traffic injuries",
+          "title": "Tasa de mortalidad por lesiones debidas a accidente de tráfico",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-7-1",
-          "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods",
+          "title": "Tasa de fecundidad de las adolescentes de 10 a 14 años",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-7-2",
-          "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group",
+          "title": "Tasa de fecundidad de las adolescentes de 15 a 19 años",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "3-7-3",
+          "title": "Tasa de fecundidad de las adolescentes de 10 a 19 años",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-7-3",
+          "status": "complete"
         },
         {
           "id": "3-8-1",
-          "title": "Coverage of essential health services",
+          "title": "Porcentaje de población con necesidad de atención médica insatisfecha",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-8-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-8-2",
-          "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income",
+          "title": "Proporción del gasto anual de las personas destinado a gastos relacionados con la salud",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-8-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "3-8-3",
+          "title": "Camas hospitalarias en centros públicos por cada 10.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-8-3",
+          "status": "complete"
+        },
+        {
+          "id": "3-8-4",
+          "title": "Consultas de odontología por cada 10.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-8-4",
+          "status": "complete"
+        },
+        {
+          "id": "3-8-5",
+          "title": "Farmacias por cada 10.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-8-5",
+          "status": "complete"
         },
         {
           "id": "3-9-1",
-          "title": "Mortality rate attributed to household and ambient air pollution",
+          "title": "Tasa de mortalidad atribuida a intoxicaciones involuntarias",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-9-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "3-9-2",
-          "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/3-9-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "3-9-3",
-          "title": "Mortality rate attributed to unintentional poisoning",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/3-9-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-a-1",
-          "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
+          "title": "Porcentaje de población de 15 y más años que son fumadores diarios",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-a-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "3-b-1",
-          "title": "Proportion of the target population covered by all vaccines included in their national programme",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/3-b-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "3-b-2",
-          "title": "Total net official development assistance to medical research and basic health sectors",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/3-b-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "3-b-3",
-          "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/3-b-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-c-1",
-          "title": "Health worker density and distribution",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 3",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-c-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "3-d-1",
-          "title": "International Health Regulations (IHR) capacity and health emergency preparedness",
+          "id": "3-c-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 3",
           "description": "",
           "keywords": "",
-          "href": "/site/es/3-d-1",
-          "status": "notstarted"
+          "href": "/site/es/3-c-2",
+          "status": "complete"
         },
         {
-          "id": "3-d-2",
-          "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi",
+          "id": "3-c-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 3",
           "description": "",
           "keywords": "",
-          "href": "/site/es/3-d-2",
-          "status": "notstarted"
+          "href": "/site/es/3-c-3",
+          "status": "complete"
+        },
+        {
+          "id": "3-c-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 3",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-c-4",
+          "status": "complete"
         }]
     }
   },
@@ -463,99 +599,123 @@
         
         {
           "id": "4-1-1",
-          "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",
+          "title": "Tasa de promoción en ESO",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-1-2",
-          "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
+          "title": "Tasa de promoción en la educación secundaria postobligatoria",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-2-1",
-          "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi",
+          "title": "Tasa de escolarización en edad infantil",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-2-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "4-2-2",
-          "title": "Participation rate in organized learning (one year before the official primary entry age), by sex",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/4-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-3-1",
-          "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
+          "title": "Porcentaje de personas que en el último año han realizado algún curso, taller o actividad formativa",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-3-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "4-3-2",
+          "title": "Porcentaje de mujeres entre los estudiantes universitarios",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-3-2",
+          "status": "complete"
         },
         {
           "id": "4-4-1",
-          "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
+          "title": "Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad informática en los últimos 12 meses",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-5-1",
-          "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
+          "title": "Índice de paridad entre mujeres y hombres de la población entre 18 y 64 años que han realizado actividades educativas en los últimos 12 meses",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-6-1",
-          "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",
+          "title": "Población entre 25 y 64 años con estudios secundarios o inferiores",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "4-7-1",
-          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
+          "id": "4-6-2",
+          "title": "Población entre 25 y 64 años con estudios postobligatorios",
           "description": "",
           "keywords": "",
-          "href": "/site/es/4-7-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "4-a-1",
-          "title": "Proportion of schools offering basic services, by type of service",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/4-a-1",
-          "status": "notstarted"
+          "href": "/site/es/4-6-2",
+          "status": "complete"
         },
         {
           "id": "4-b-1",
-          "title": "Volume of official development assistance flows for scholarships by sector and type of study",
+          "title": "Asistencia oficial destinada a cheque escolar",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-b-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "4-b-2",
+          "title": "Cobertura del cheque escolar",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-b-2",
+          "status": "complete"
         },
         {
           "id": "4-c-1",
-          "title": "Proportion of teachers with the minimum required qualifications, by education leveli",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 4",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-c-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "4-c-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 4",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-c-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-c-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 4",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-c-3",
+          "status": "complete"
+        },
+        {
+          "id": "4-c-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 4",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-c-4",
+          "status": "complete"
         }]
     }
   },
@@ -567,115 +727,251 @@
         
         {
           "id": "5-1-1",
-          "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex",
+          "title": "Mujeres discriminadas por motivos de sexo en los últimos 12 meses",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-1",
-          "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
+          "title": "Proporción de mujeres y niñas de 16 años o más que han sufrido violencia física a lo largo de su vida",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-2",
-          "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",
+          "title": "Proporción de mujeres y niñas de 16 años o más que han sufrido violencia sexual a lo largo de su vida",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "5-3-1",
-          "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+          "id": "5-2-3",
+          "title": "Proporción de mujeres y niñas de 16 años o más que han sufrido violencia física a manos de su pareja (actual o pasada) a lo largo de su vida",
           "description": "",
           "keywords": "",
-          "href": "/site/es/5-3-1",
-          "status": "notstarted"
+          "href": "/site/es/5-2-3",
+          "status": "complete"
         },
         {
-          "id": "5-3-2",
-          "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age",
+          "id": "5-2-4",
+          "title": "Proporción de mujeres y niñas de 16 años o más que han sufrido violencia sexual a manos de su pareja (actual o pasada) a lo largo de su vida",
           "description": "",
           "keywords": "",
-          "href": "/site/es/5-3-2",
-          "status": "notstarted"
+          "href": "/site/es/5-2-4",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-5",
+          "title": "Proporción de mujeres y niñas de 16 años o más que han sufrido violencia psicológica de control a manos de su pareja (actual o pasada) a lo largo de su vida",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-2-5",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-6",
+          "title": "Proporción de mujeres y niñas de 16 años o más que han sufrido violencia psicológica emocional a manos de su pareja (actual o pasada) a lo largo de su vida",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-2-6",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-7",
+          "title": "Proporción de mujeres y niñas de 16 años o más que han sufrido violencia económica a manos de su pareja (actual o pasada) a lo largo de su vida",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-2-7",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-8",
+          "title": "Proporción de mujeres y niñas de 16 años o más que han sufrido violencia física y/o sexual a manos de su actual pareja en los últimos 12 meses",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-2-8",
+          "status": "complete"
         },
         {
           "id": "5-4-1",
-          "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
+          "title": "Tiempo que dedica la población a la atención y cura de los hijos convivientes",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-4-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "5-4-2",
+          "title": "Tiempo que dedica la población a la atención y cura de personas convivientes dependientes o con discapacidad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "5-4-3",
+          "title": "Tiempo que dedica la población a las realización de las tareas domésticas y del hogar",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-4-3",
+          "status": "complete"
         },
         {
           "id": "5-5-1",
-          "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments",
+          "title": "Proporción de mujeres regidoras al Ayuntamiento de València",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-5-2",
-          "title": "Proportion of women in managerial positions",
+          "title": "Mujeres en lugares municipales de dirección superior",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-5-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "5-6-1",
-          "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+          "id": "5-5-3",
+          "title": "Mujeres profesoras en la UPV",
           "description": "",
           "keywords": "",
-          "href": "/site/es/5-6-1",
-          "status": "notstarted"
+          "href": "/site/es/5-5-3",
+          "status": "complete"
         },
         {
-          "id": "5-6-2",
-          "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",
+          "id": "5-5-4",
+          "title": "Mujeres profesoras en la UV",
           "description": "",
           "keywords": "",
-          "href": "/site/es/5-6-2",
-          "status": "notstarted"
+          "href": "/site/es/5-5-4",
+          "status": "complete"
         },
         {
           "id": "5-a-1",
-          "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 5",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-a-2",
-          "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS5",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-a-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "5-a-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS5",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-a-3",
+          "status": "complete"
+        },
+        {
+          "id": "5-a-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 5",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-a-4",
+          "status": "complete"
         },
         {
           "id": "5-b-1",
-          "title": "Proportion of individuals who own a mobile telephone, by sex",
+          "title": "Personas que han utilizado Internet en los últimos 3 meses",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-b-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "5-b-2",
+          "title": "Personas que han comprado por Internet en los últimos 3 meses",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-b-2",
+          "status": "complete"
         },
         {
           "id": "5-c-1",
-          "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment",
+          "title": "Tasa de actividad",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-c-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "5-c-2",
+          "title": "Mujeres asistidas por Espacio Mujeres e Igualdad del Servicio de Igualdad y Políticas inclusivas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-c-2",
+          "status": "complete"
+        },
+        {
+          "id": "5-c-3",
+          "title": "Mujeres víctimas de Violencia Doméstica",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-c-3",
+          "status": "complete"
+        },
+        {
+          "id": "5-c-4",
+          "title": "Órdenes de alejamiento concedidas a mujeres",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-c-4",
+          "status": "complete"
+        },
+        {
+          "id": "5-c-5",
+          "title": "Proporción de mujeres víctimas de Violencia Doméstica",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-c-5",
+          "status": "complete"
+        },
+        {
+          "id": "5-c-6",
+          "title": "Proporción de órdenes de alejamiento concedidas a mujeres",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-c-6",
+          "status": "complete"
+        },
+        {
+          "id": "5-c-7",
+          "title": "Mujeres muertas por violencia de género",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-c-7",
+          "status": "complete"
+        },
+        {
+          "id": "5-c-8",
+          "title": "Denuncias de violencia de género por 10.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-c-8",
+          "status": "complete"
+        },
+        {
+          "id": "5-c-9",
+          "title": "Denuncias de violencia de género por 10.000 mujeres",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/5-c-9",
+          "status": "complete"
         }]
     }
   },
@@ -687,91 +983,91 @@
         
         {
           "id": "6-1-1",
-          "title": "Proportion of population using safely managed drinking water services",
+          "title": "Consumo de litros de agua por habitante y día",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "6-2-1",
-          "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water",
+          "id": "6-1-2",
+          "title": "Consumo de litros de agua doméstica por habitante y día",
           "description": "",
           "keywords": "",
-          "href": "/site/es/6-2-1",
-          "status": "notstarted"
+          "href": "/site/es/6-1-2",
+          "status": "complete"
         },
         {
           "id": "6-3-1",
-          "title": "Proportion of domestic and industrial wastewater flows safely treated",
+          "title": "Caudal diario de las aguas residuales",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-3-2",
-          "title": "Proportion of bodies of water with good ambient water quality",
+          "title": "Sustancias sólidas eliminadas",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-3-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "6-4-1",
-          "title": "Change in water-use efficiency over time",
+          "id": "6-3-3",
+          "title": "Reducción de DBO5",
           "description": "",
           "keywords": "",
-          "href": "/site/es/6-4-1",
-          "status": "notstarted"
+          "href": "/site/es/6-3-3",
+          "status": "complete"
         },
         {
-          "id": "6-4-2",
-          "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+          "id": "6-3-4",
+          "title": "Reducción de DQO",
           "description": "",
           "keywords": "",
-          "href": "/site/es/6-4-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "6-5-1",
-          "title": "Degree of integrated water resources management",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/6-5-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "6-5-2",
-          "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/6-5-2",
-          "status": "notstarted"
+          "href": "/site/es/6-3-4",
+          "status": "complete"
         },
         {
           "id": "6-6-1",
-          "title": "Change in the extent of water-related ecosystems over time",
+          "title": "Porcentaje de playas con calificación excelente",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-a-1",
-          "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 6",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "6-b-1",
-          "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management",
+          "id": "6-a-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 6",
           "description": "",
           "keywords": "",
-          "href": "/site/es/6-b-1",
-          "status": "notstarted"
+          "href": "/site/es/6-a-2",
+          "status": "complete"
+        },
+        {
+          "id": "6-a-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 6",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/6-a-3",
+          "status": "complete"
+        },
+        {
+          "id": "6-a-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 6",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/6-a-4",
+          "status": "complete"
         }]
     }
   },
@@ -783,51 +1079,75 @@
         
         {
           "id": "7-1-1",
-          "title": "Proportion of population with access to electricity",
+          "title": "Consumo de energía eléctrica total por habitante y día (kWh)",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-1-2",
-          "title": "Proportion of population with primary reliance on clean fuels and technology",
+          "title": "Consumo de energía eléctrica doméstica por habitante y día (kWh)",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "7-2-1",
-          "title": "Renewable energy share in the total final energy consumption",
+          "id": "7-1-3",
+          "title": "Consumo de gas por habitante y día (kWh)",
           "description": "",
           "keywords": "",
-          "href": "/site/es/7-2-1",
-          "status": "notstarted"
+          "href": "/site/es/7-1-3",
+          "status": "complete"
         },
         {
-          "id": "7-3-1",
-          "title": "Energy intensity measured in terms of primary energy and GDP",
+          "id": "7-1-4",
+          "title": "Porcentaje de nuevas viviendas",
           "description": "",
           "keywords": "",
-          "href": "/site/es/7-3-1",
-          "status": "notstarted"
+          "href": "/site/es/7-1-4",
+          "status": "complete"
         },
         {
-          "id": "7-a-1",
-          "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",
+          "id": "7-1-5",
+          "title": "Puntos de alumbramiento público",
           "description": "",
           "keywords": "",
-          "href": "/site/es/7-a-1",
-          "status": "notstarted"
+          "href": "/site/es/7-1-5",
+          "status": "complete"
         },
         {
           "id": "7-b-1",
-          "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 7",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-b-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "7-b-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 7",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/7-b-2",
+          "status": "complete"
+        },
+        {
+          "id": "7-b-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 7",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/7-b-3",
+          "status": "complete"
+        },
+        {
+          "id": "7-b-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 7",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/7-b-4",
+          "status": "complete"
         }]
     }
   },
@@ -838,132 +1158,188 @@
       "indicators": [
         
         {
-          "id": "8-1-1",
-          "title": "Annual growth rate of real GDP per capita",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/8-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "8-2-1",
-          "title": "Annual growth rate of real GDP per employed person",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/8-2-1",
-          "status": "notstarted"
-        },
-        {
           "id": "8-3-1",
-          "title": "Proportion of informal employment in total employment, by sector and sex",
+          "title": "Trabajadores afiliados al régimen general con contrato laboral temporal",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "8-4-1",
-          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
+          "id": "8-3-2",
+          "title": "Trabajadores afiliados en régimen autónomo",
           "description": "",
           "keywords": "",
-          "href": "/site/es/8-4-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "8-4-2",
-          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/8-4-2",
-          "status": "notstarted"
+          "href": "/site/es/8-3-2",
+          "status": "complete"
         },
         {
           "id": "8-5-1",
-          "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities",
+          "title": "Tasa de desocupación",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-5-2",
-          "title": "Unemployment rate, by sex, age and persons with disabilities",
+          "title": "Paro registrado",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-5-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "8-5-3",
+          "title": "Paro registrado en personas con discapacidad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-5-3",
+          "status": "complete"
+        },
+        {
+          "id": "8-5-4",
+          "title": "Porcentaje de población con discapacidad entre los parados",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-5-4",
+          "status": "complete"
+        },
+        {
+          "id": "8-5-5",
+          "title": "Población parada de larga duración",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-5-5",
+          "status": "complete"
+        },
+        {
+          "id": "8-5-6",
+          "title": "Porcentaje de población desempleada parada de larga duración",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-5-6",
+          "status": "complete"
         },
         {
           "id": "8-6-1",
-          "title": "Proportion of youth (aged 15–24 years) not in education, employment or training",
+          "title": "Paro registrado en población joven con bajo nivel de estudios",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-6-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "8-7-1",
-          "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/8-7-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-8-1",
-          "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status",
+          "title": "Número de accidentes laborales con baja",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-8-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-8-2",
-          "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",
+          "title": "Accidentes laborales con baja por cada 1.000 trabajadores afiliados",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-8-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "8-8-3",
+          "title": "Población con enfermedades profesionales",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-8-3",
+          "status": "complete"
+        },
+        {
+          "id": "8-8-4",
+          "title": "Enfermedades profesionales por cada 10.000 trabajadores afiliados",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-8-4",
+          "status": "complete"
         },
         {
           "id": "8-9-1",
-          "title": "Tourism direct GDP as a proportion of total GDP and in growth rate",
+          "title": "Número de plazas en establecimientos hoteleros",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-9-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "8-9-2",
+          "title": "Plazas en establecimientos hoteleros por cada 1.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-9-2",
+          "status": "complete"
+        },
+        {
+          "id": "8-9-3",
+          "title": "Número de plazas en apartamentos turísticos",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-9-3",
+          "status": "complete"
+        },
+        {
+          "id": "8-9-4",
+          "title": "Plazas en apartamentos turísticos por cada 1.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-9-4",
+          "status": "complete"
         },
         {
           "id": "8-10-1",
-          "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",
+          "title": "Sucursales bancarias",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-10-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-10-2",
-          "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider",
+          "title": "Sucursales bancarias por cada 1.000 habitantes de 16 o más años",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-10-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-a-1",
-          "title": "Aid for Trade commitments and disbursements",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 8",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "8-b-1",
-          "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",
+          "id": "8-a-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 8",
           "description": "",
           "keywords": "",
-          "href": "/site/es/8-b-1",
-          "status": "notstarted"
+          "href": "/site/es/8-a-2",
+          "status": "complete"
+        },
+        {
+          "id": "8-a-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 8",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-a-3",
+          "status": "complete"
+        },
+        {
+          "id": "8-a-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 8",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/8-a-4",
+          "status": "complete"
         }]
     }
   },
@@ -975,99 +1351,227 @@
         
         {
           "id": "9-1-1",
-          "title": "Proportion of the rural population who live within 2 km of an all-season road",
+          "title": "Mercancías transportadas en el Puerto de València (toneladas)",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-1-2",
-          "title": "Passenger and freight volumes, by mode of transport",
+          "title": "Pasajeros que han pasado por el Puerto de València",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-1-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "9-1-3",
+          "title": "Mercancías transportadas en el Aeropuerto de València (toneladas)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-4",
+          "title": "Pasajeros que han pasado por el Aeropuerto de València",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-4",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-5",
+          "title": "Población que utiliza MetroValencia como principal medio para desplazarse",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-5",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-6",
+          "title": "Población que utiliza EMT como principal medio para desplazarse",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-6",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-7",
+          "title": "Valoración de la facilidad para desplazarse con MetroValencia",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-7",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-8",
+          "title": "Valoración de la facilidad para desplazarse con EMT",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-8",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-9",
+          "title": "Tiempo medio a la parada de MetroValencia más próxima",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-9",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-10",
+          "title": "Tiempo medio a la parada de EMT más próxima",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-10",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-11",
+          "title": "Población con una parada de MetroValencia a menos de 10 min",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-11",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-12",
+          "title": "Población con una parada de EMT a menos de 10 min",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-1-12",
+          "status": "complete"
         },
         {
           "id": "9-2-1",
-          "title": "Manufacturing value added as a proportion of GDP and per capita",
+          "title": "Porcentaje de empresas en el sector industrial",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-2-2",
-          "title": "Manufacturing employment as a proportion of total employment",
+          "title": "Porcentaje de población ocupada en el sector industrial",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-2-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-3-1",
-          "title": "Proportion of small-scale industries in total industry value added",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/9-3-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-3-2",
-          "title": "Proportion of small-scale industries with a loan or line of credit",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/9-3-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-4-1",
-          "title": "CO2 emission per unit of value added",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/9-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-5-1",
-          "title": "Research and development expenditure as a proportion of GDP",
+          "title": "Patentes solicitadas por residentes en València",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-5-2",
-          "title": "Researchers (in full-time equivalent) per million inhabitants",
+          "title": "Patentes solicitadas por la Universitat de València (UV)",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-5-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "9-5-3",
+          "title": "Patentes solicitadas por la Universitat Politècnica de València (UPV)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-5-3",
+          "status": "complete"
+        },
+        {
+          "id": "9-5-4",
+          "title": "Tasa de patentes por 100.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-5-4",
+          "status": "complete"
         },
         {
           "id": "9-a-1",
-          "title": "Total official international support (official development assistance plus other official flows) to infrastructure",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 9",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "9-b-1",
-          "title": "Proportion of medium and high-tech industry value added in total value added",
+          "id": "9-a-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 9",
           "description": "",
           "keywords": "",
-          "href": "/site/es/9-b-1",
-          "status": "notstarted"
+          "href": "/site/es/9-a-2",
+          "status": "complete"
+        },
+        {
+          "id": "9-a-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 9",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-a-3",
+          "status": "complete"
+        },
+        {
+          "id": "9-a-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 9",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-a-4",
+          "status": "complete"
         },
         {
           "id": "9-c-1",
-          "title": "Proportion of population covered by a mobile network, by technology",
+          "title": "Porcentaje de viviendas con teléfono fijo",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-c-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "9-c-2",
+          "title": "Porcentaje de viviendas con teléfono móvil",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-c-2",
+          "status": "complete"
+        },
+        {
+          "id": "9-c-3",
+          "title": "Porcentaje de viviendas con algún tipo de teléfono",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-c-3",
+          "status": "complete"
+        },
+        {
+          "id": "9-c-4",
+          "title": "Porcentaje de viviendas con algún tipo de ordenador",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-c-4",
+          "status": "complete"
+        },
+        {
+          "id": "9-c-5",
+          "title": "Porcentaje de viviendas con acceso a Internet",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-c-5",
+          "status": "complete"
+        },
+        {
+          "id": "9-c-6",
+          "title": "Porcentaje de viviendas con conexión de banda ancha",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/9-c-6",
+          "status": "complete"
         }]
     }
   },
@@ -1079,115 +1583,195 @@
         
         {
           "id": "10-1-1",
-          "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
+          "title": "Población con ingresos por unidad de consumo por debajo de 5000 euros",
           "description": "",
           "keywords": "",
           "href": "/site/es/10-1-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "10-1-2",
+          "title": "Población con ingresos por unidad de consumo por debajo de 7500 euros",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "10-1-3",
+          "title": "Población con ingresos por unidad de consumo por debajo de 10000 euros",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "10-1-4",
+          "title": "Índice de Gini",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-1-4",
+          "status": "complete"
         },
         {
           "id": "10-2-1",
-          "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+          "title": "Población con ingresos por unidad de consumo por debajo del 40% de la mediana",
           "description": "",
           "keywords": "",
           "href": "/site/es/10-2-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "10-2-2",
+          "title": "Población con ingresos por unidad de consumo por debajo del 50% de la mediana",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-3",
+          "title": "Población con ingresos por unidad de consumo por debajo del 60% de la mediana",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-3",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-4",
+          "title": "Índice de Dependencia Demográfica",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-4",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-5",
+          "title": "Porcentaje de renta que controla el 20% más rico",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-5",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-6",
+          "title": "Porcentaje de renta que controla el 20% más pobre",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-6",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-7",
+          "title": "Paro registrado en personas con discapacidad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-7",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-8",
+          "title": "Porcentaje de población con discapacidad entre los parados",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-8",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-9",
+          "title": "Porcentaje de población de nacionalidad extranjera",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-9",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-10",
+          "title": "Porcentaje de población parada de nacionalidad extranjera",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-10",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-11",
+          "title": "Porcentaje de población afiliada a la SS de nacionalidad extranjera",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-11",
+          "status": "complete"
         },
         {
           "id": "10-3-1",
-          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
+          "title": "Porcentaje de personas que se han sentido discriminadas por alguna causa en los útimos 12 meses",
           "description": "",
           "keywords": "",
           "href": "/site/es/10-3-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "10-3-2",
+          "title": "Porcentaje de personas que se han sentido discriminadas por motivos de discapacidad en los últimos 12 meses",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-3-2",
+          "status": "complete"
         },
         {
           "id": "10-4-1",
-          "title": "Labour share of GDP",
+          "title": "Porcentaje de rentas procedentes del salario",
           "description": "",
           "keywords": "",
           "href": "/site/es/10-4-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-4-2",
-          "title": "Redistributive impact of fiscal policy",
+          "title": "Porcentaje de rentas procedentes de pensiones",
           "description": "",
           "keywords": "",
           "href": "/site/es/10-4-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "10-5-1",
-          "title": "Financial Soundness Indicators",
+          "id": "10-4-3",
+          "title": "Porcentaje de rentas procedentes de prestaciones por incapacidad o dependencia",
           "description": "",
           "keywords": "",
-          "href": "/site/es/10-5-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "10-6-1",
-          "title": "Proportion of members and voting rights of developing countries in international organizations",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/10-6-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "10-7-1",
-          "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/10-7-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "10-7-2",
-          "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/10-7-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "10-7-3",
-          "title": "Number of people who died or disappeared in the process of migration towards an international destinationi",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/10-7-3",
-          "status": "notstarted"
-        },
-        {
-          "id": "10-7-4",
-          "title": "Proportion of the population who are refugees, by country of origin",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/10-7-4",
-          "status": "notstarted"
-        },
-        {
-          "id": "10-a-1",
-          "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/10-a-1",
-          "status": "notstarted"
+          "href": "/site/es/10-4-3",
+          "status": "complete"
         },
         {
           "id": "10-b-1",
-          "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 10",
           "description": "",
           "keywords": "",
           "href": "/site/es/10-b-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "10-c-1",
-          "title": "Remittance costs as a proportion of the amount remitted",
+          "id": "10-b-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 10",
           "description": "",
           "keywords": "",
-          "href": "/site/es/10-c-1",
-          "status": "notstarted"
+          "href": "/site/es/10-b-2",
+          "status": "complete"
+        },
+        {
+          "id": "10-b-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 10",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-b-3",
+          "status": "complete"
+        },
+        {
+          "id": "10-b-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 10",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-b-4",
+          "status": "complete"
         }]
     }
   },
@@ -1199,123 +1783,275 @@
         
         {
           "id": "11-1-1",
-          "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
+          "title": "Renta media de la población",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-1-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "11-1-2",
+          "title": "Porcentaje de población que vive en secciones censales vulnerables",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-1-3",
+          "title": "Porcentaje de población que vive en secciones censales vulnerables a nivel de equipación",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "11-1-4",
+          "title": "Porcentaje de población que vive en secciones censales vulnerables a nivel demográfico",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-1-4",
+          "status": "complete"
+        },
+        {
+          "id": "11-1-5",
+          "title": "Porcentaje de población que vive en secciones censales vulnerables a nivel socioeconómico",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-1-5",
+          "status": "complete"
+        },
+        {
+          "id": "11-1-6",
+          "title": "Precio medio m² vivienda en alquiler",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-1-6",
+          "status": "complete"
+        },
+        {
+          "id": "11-1-7",
+          "title": "Tasa de sobrecarga precio de la vivienda",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-1-7",
+          "status": "complete"
         },
         {
           "id": "11-2-1",
-          "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",
+          "title": "Tiempo medio a la parada de MetroValencia más próxima",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-2-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "11-2-2",
+          "title": "Tiempo medio a la parada de EMT más próxima",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-3",
+          "title": "Población con una parada de MetroValencia a menos de 10 min",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-3",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-4",
+          "title": "Población con una parada de EMT a menos de 10 min",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-4",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-5",
+          "title": "Viajes en MetroValencia por habitante",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-5",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-6",
+          "title": "Viajes en EMT por habitante",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-6",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-7",
+          "title": "Paradas de MetroValencia por cada 100.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-7",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-8",
+          "title": "Paradas de EMT por cada 10.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-8",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-9",
+          "title": "Usuarios abonados a ValenBisi",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-9",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-10",
+          "title": "Precio del billete sencillo EMT",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-10",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-11",
+          "title": "Accidentes de circulación",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-11",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-12",
+          "title": "Víctimas en accidentes de circulación",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-12",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-13",
+          "title": "Víctimas mortales en accidentes de circulación",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-13",
+          "status": "complete"
         },
         {
           "id": "11-3-1",
-          "title": "Ratio of land consumption rate to population growth rate",
+          "title": "Densidad de la población",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-3-2",
-          "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically",
+          "title": "Superficie construida por cápita",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-3-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "11-4-1",
-          "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/11-4-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "11-5-1",
-          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/11-5-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "11-5-2",
-          "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/11-5-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "11-5-3",
-          "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/11-5-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-6-1",
-          "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",
+          "title": "Proporción de residuos tratados",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-6-2",
-          "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)",
+          "title": "Concentración media anual de PM2.5",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-6-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "11-7-1",
-          "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",
+          "id": "11-6-3",
+          "title": "Concentración media anual de PM10",
           "description": "",
           "keywords": "",
-          "href": "/site/es/11-7-1",
-          "status": "notstarted"
+          "href": "/site/es/11-6-3",
+          "status": "complete"
         },
         {
-          "id": "11-7-2",
-          "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",
+          "id": "11-6-4",
+          "title": "Número de superaciones diarias de partículas en suspensión PM10",
           "description": "",
           "keywords": "",
-          "href": "/site/es/11-7-2",
-          "status": "notstarted"
+          "href": "/site/es/11-6-4",
+          "status": "complete"
         },
         {
-          "id": "11-a-1",
-          "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space",
+          "id": "11-6-5",
+          "title": "Concentración media anual de NO2",
           "description": "",
           "keywords": "",
-          "href": "/site/es/11-a-1",
-          "status": "notstarted"
+          "href": "/site/es/11-6-5",
+          "status": "complete"
+        },
+        {
+          "id": "11-6-6",
+          "title": "Concentración media anual de O3",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-6-6",
+          "status": "complete"
+        },
+        {
+          "id": "11-6-7",
+          "title": "Concentración media anual de SO2",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-6-7",
+          "status": "complete"
         },
         {
           "id": "11-b-1",
-          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030",
+          "title": "Remanente de tesorería para gastos generales",
           "description": "",
           "keywords": "",
           "href": "/site/es/11-b-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "11-b-2",
-          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
+          "id": "11-c-1",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 11",
           "description": "",
           "keywords": "",
-          "href": "/site/es/11-b-2",
-          "status": "notstarted"
+          "href": "/site/es/11-c-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-c-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 11",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-c-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-c-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 11",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-c-3",
+          "status": "complete"
+        },
+        {
+          "id": "11-c-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 11",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-c-4",
+          "status": "complete"
         }]
     }
   },
@@ -1326,108 +2062,132 @@
       "indicators": [
         
         {
-          "id": "12-1-1",
-          "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/12-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "12-2-1",
-          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/12-2-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "12-2-2",
-          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/12-2-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "12-3-1",
-          "title": "(a) Food loss index and (b) food waste index",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/12-3-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "12-4-1",
-          "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/12-4-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "12-4-2",
-          "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/12-4-2",
-          "status": "notstarted"
-        },
-        {
           "id": "12-5-1",
-          "title": "National recycling rate, tons of material recycled",
+          "title": "Proporción de residuos tratados",
           "description": "",
           "keywords": "",
           "href": "/site/es/12-5-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "12-6-1",
-          "title": "Number of companies publishing sustainability reports",
+          "id": "12-5-2",
+          "title": "Contenedores de vidrio por cada 1.000 habitantes",
           "description": "",
           "keywords": "",
-          "href": "/site/es/12-6-1",
-          "status": "notstarted"
+          "href": "/site/es/12-5-2",
+          "status": "complete"
         },
         {
-          "id": "12-7-1",
-          "title": "Number of countries implementing sustainable public procurement policies and action plans",
+          "id": "12-5-3",
+          "title": "Contenedores de papel y cartón por cada 1.000 habitantes",
           "description": "",
           "keywords": "",
-          "href": "/site/es/12-7-1",
-          "status": "notstarted"
+          "href": "/site/es/12-5-3",
+          "status": "complete"
+        },
+        {
+          "id": "12-5-4",
+          "title": "Contenedores de plástico por cada 1.000 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-5-4",
+          "status": "complete"
+        },
+        {
+          "id": "12-5-5",
+          "title": "Recogida anual de vidrio por habitante",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-5-5",
+          "status": "complete"
+        },
+        {
+          "id": "12-5-6",
+          "title": "Recogida anual de papel y cartón por habitante",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-5-6",
+          "status": "complete"
+        },
+        {
+          "id": "12-5-7",
+          "title": "Recogida anual de plástico por habitante",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-5-7",
+          "status": "complete"
+        },
+        {
+          "id": "12-5-8",
+          "title": "Porcentaje de residuos que son reciclados",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-5-8",
+          "status": "complete"
         },
         {
           "id": "12-8-1",
-          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
+          "title": "Población que considera el cambio climático como uno de los tres temas medioambientales de la ciudad que más le preocupa",
           "description": "",
           "keywords": "",
           "href": "/site/es/12-8-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "12-8-2",
+          "title": "Población que considera que le afecta el calentamiento global",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-8-2",
+          "status": "complete"
         },
         {
           "id": "12-a-1",
-          "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 12",
           "description": "",
           "keywords": "",
           "href": "/site/es/12-a-1",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "12-a-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 12",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-a-2",
+          "status": "complete"
+        },
+        {
+          "id": "12-a-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 12",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-a-3",
+          "status": "complete"
+        },
+        {
+          "id": "12-a-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 12",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-a-4",
+          "status": "complete"
         },
         {
           "id": "12-b-1",
-          "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability",
+          "title": "Turistas (viajeros) per cápita",
           "description": "",
           "keywords": "",
           "href": "/site/es/12-b-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "12-c-1",
-          "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP",
+          "id": "12-b-2",
+          "title": "Estancia media en hoteles y apartamentos turísticos",
           "description": "",
           "keywords": "",
-          "href": "/site/es/12-c-1",
-          "status": "notstarted"
+          "href": "/site/es/12-b-2",
+          "status": "complete"
         }]
     }
   },
@@ -1439,155 +2199,139 @@
         
         {
           "id": "13-1-1",
-          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+          "title": "Porcentaje de superficie con riesgo de inundación",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-1-2",
-          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030",
+          "title": "Remanente de tesorería para gastos generales",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-1-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "13-1-3",
-          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/13-1-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-2-1",
-          "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",
+          "title": "Emisiones toneladas CO2 por cada 100 habitantes",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-2-2",
-          "title": "Total greenhouse gas emissions per year",
+          "title": "Emisiones toneladas CO2 sector residencial por cada 100 habitantes",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-2-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "13-2-3",
+          "title": "Emisiones toneladas CO2 sector servicios por cada 100 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/13-2-3",
+          "status": "complete"
+        },
+        {
+          "id": "13-2-4",
+          "title": "Emisiones toneladas CO2 sector industrial por cada 100 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/13-2-4",
+          "status": "complete"
+        },
+        {
+          "id": "13-2-5",
+          "title": "Emisiones toneladas CO2 transporte privado y comercial por cada 100 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/13-2-5",
+          "status": "complete"
+        },
+        {
+          "id": "13-2-6",
+          "title": "Emisiones tonelades CO2 procedentes de residuos por cada 100 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/13-2-6",
+          "status": "complete"
+        },
+        {
+          "id": "13-2-7",
+          "title": "Emisiones toneladas CO2 en ámbitos del Ayuntamiento por cada 100 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/13-2-7",
+          "status": "complete"
+        },
+        {
+          "id": "13-2-8",
+          "title": "Energía procedente de fuentes renovables (MWh) por cada 100 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/13-2-8",
+          "status": "complete"
+        },
+        {
+          "id": "13-2-9",
+          "title": "Compra de energía verde certificada (MW) por cada 100 habitantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/13-2-9",
+          "status": "complete"
         },
         {
           "id": "13-3-1",
-          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
+          "title": "Población que considera el cambio climático como uno de los tres temas medioambientales de la ciudad que más le preocupa",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "13-a-1",
-          "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025",
+          "id": "13-3-2",
+          "title": "Población que considera que le afecta el calentamiento global",
           "description": "",
           "keywords": "",
-          "href": "/site/es/13-a-1",
-          "status": "notstarted"
+          "href": "/site/es/13-3-2",
+          "status": "complete"
         },
         {
           "id": "13-b-1",
-          "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 13",
           "description": "",
           "keywords": "",
           "href": "/site/es/13-b-1",
-          "status": "notstarted"
-        }]
-    }
-  },
-  {
-    "goal": {
-      "id": "14",
-      "title": "Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible",
-      "indicators": [
-        
-        {
-          "id": "14-1-1",
-          "title": "(a) Index of coastal eutrophication; and (b) plastic debris density",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/14-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "14-2-1",
-          "title": "Number of countries using ecosystem-based approaches to managing marine areas",
+          "id": "13-b-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 13",
           "description": "",
           "keywords": "",
-          "href": "/site/es/14-2-1",
-          "status": "notstarted"
+          "href": "/site/es/13-b-2",
+          "status": "complete"
         },
         {
-          "id": "14-3-1",
-          "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations",
+          "id": "13-b-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 13",
           "description": "",
           "keywords": "",
-          "href": "/site/es/14-3-1",
-          "status": "notstarted"
+          "href": "/site/es/13-b-3",
+          "status": "complete"
         },
         {
-          "id": "14-4-1",
-          "title": "Proportion of fish stocks within biologically sustainable levels",
+          "id": "13-b-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 13",
           "description": "",
           "keywords": "",
-          "href": "/site/es/14-4-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "14-5-1",
-          "title": "Coverage of protected areas in relation to marine areas",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/14-5-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "14-6-1",
-          "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/14-6-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "14-7-1",
-          "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/14-7-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "14-a-1",
-          "title": "Proportion of total research budget allocated to research in the field of marine technology",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/14-a-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "14-b-1",
-          "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/14-b-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "14-c-1",
-          "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/14-c-1",
-          "status": "notstarted"
+          "href": "/site/es/13-b-4",
+          "status": "complete"
         }]
     }
   },
@@ -1598,116 +2342,140 @@
       "indicators": [
         
         {
-          "id": "15-1-1",
-          "title": "Forest area as a proportion of total land area",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/15-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "15-1-2",
-          "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/15-1-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "15-2-1",
-          "title": "Progress towards sustainable forest management",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/15-2-1",
-          "status": "notstarted"
-        },
-        {
           "id": "15-3-1",
-          "title": "Proportion of land that is degraded over total land area",
+          "title": "Porcentaje precipitación total anual respecto a la media del periodo 1961-90",
           "description": "",
           "keywords": "",
           "href": "/site/es/15-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "15-4-1",
-          "title": "Coverage by protected areas of important sites for mountain biodiversity",
+          "id": "15-3-2",
+          "title": "Diferencia temperatura respecto a la media del periodo 1961-90",
           "description": "",
           "keywords": "",
-          "href": "/site/es/15-4-1",
-          "status": "notstarted"
+          "href": "/site/es/15-3-2",
+          "status": "complete"
         },
         {
-          "id": "15-4-2",
-          "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land",
+          "id": "15-3-3",
+          "title": "Porcentaje precipitación total anual respecto a la media del periodo 1981-2010",
           "description": "",
           "keywords": "",
-          "href": "/site/es/15-4-2",
-          "status": "notstarted"
+          "href": "/site/es/15-3-3",
+          "status": "complete"
         },
         {
-          "id": "15-5-1",
-          "title": "Red List Index",
+          "id": "15-3-4",
+          "title": "Diferencia temperatura respecto a la media del periodo 1981-2010",
           "description": "",
           "keywords": "",
-          "href": "/site/es/15-5-1",
-          "status": "notstarted"
+          "href": "/site/es/15-3-4",
+          "status": "complete"
         },
         {
-          "id": "15-6-1",
-          "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",
+          "id": "15-3-5",
+          "title": "Porcentaje de superficie con riesgo de inundación",
           "description": "",
           "keywords": "",
-          "href": "/site/es/15-6-1",
-          "status": "notstarted"
+          "href": "/site/es/15-3-5",
+          "status": "complete"
         },
         {
-          "id": "15-7-1",
-          "title": "Proportion of traded wildlife that was poached or illicitly trafficked",
+          "id": "15-3-6",
+          "title": "Población que reside en zonas con riesgo de inundación (niveles 1-6)",
           "description": "",
           "keywords": "",
-          "href": "/site/es/15-7-1",
-          "status": "notstarted"
+          "href": "/site/es/15-3-6",
+          "status": "complete"
         },
         {
-          "id": "15-8-1",
-          "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species",
+          "id": "15-3-7",
+          "title": "Porcentaje de superficie con riesgo de inundación frecuente",
           "description": "",
           "keywords": "",
-          "href": "/site/es/15-8-1",
-          "status": "notstarted"
+          "href": "/site/es/15-3-7",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-8",
+          "title": "Porcentaje de superficie con riesgo de inundación ocasional",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-8",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-9",
+          "title": "Porcentaje de superficie con riesgo de inundación excepcional",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-9",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-10",
+          "title": "Porcentaje de superficie con riesgo de inundación de alto calado",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-10",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-11",
+          "title": "Porcentaje de superficie con riesgo de inundación de bajo calado",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-11",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-12",
+          "title": "Porcentaje de infraestructuras lineales con riesgo de inundación",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-12",
+          "status": "complete"
         },
         {
           "id": "15-9-1",
-          "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r",
+          "title": "Gasto en protección y mejora del medio ambiente por habitante",
           "description": "",
           "keywords": "",
           "href": "/site/es/15-9-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "15-a-1",
-          "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/15-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-b-1",
-          "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 15",
           "description": "",
           "keywords": "",
           "href": "/site/es/15-b-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "15-c-1",
-          "title": "Proportion of traded wildlife that was poached or illicitly trafficked",
+          "id": "15-b-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 15",
           "description": "",
           "keywords": "",
-          "href": "/site/es/15-c-1",
-          "status": "notstarted"
+          "href": "/site/es/15-b-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-b-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 15",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-b-3",
+          "status": "complete"
+        },
+        {
+          "id": "15-b-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 15",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-b-4",
+          "status": "complete"
         }]
     }
   },
@@ -1719,195 +2487,203 @@
         
         {
           "id": "16-1-1",
-          "title": "Number of victims of intentional homicide per 100,000 population, by sex and age",
+          "title": "Tasa de criminalidad",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-1-2",
-          "title": "Conflict-related deaths per 100,000 population, by sex, age and cause",
+          "title": "Valoración de la población adulta del grado de seguridad de su barrio de residencia",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-1-3",
-          "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months",
+          "title": "Valoración de la población adulta del nivel de altruismo de la mayoría de la gente",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-1-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-1-4",
-          "title": "Proportion of population that feel safe walking alone around the area they live",
+          "title": "Tasa de homicidios dolosos y asesinatos consumados",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-1-4",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "16-2-1",
-          "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month",
+          "id": "16-1-5",
+          "title": "Tasa de delitos contra la libertad e indemnidad sexual",
           "description": "",
           "keywords": "",
-          "href": "/site/es/16-2-1",
-          "status": "notstarted"
+          "href": "/site/es/16-1-5",
+          "status": "complete"
         },
         {
-          "id": "16-2-2",
-          "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation",
+          "id": "16-1-6",
+          "title": "Tasa de delitos por robos con violencia o intimidación",
           "description": "",
           "keywords": "",
-          "href": "/site/es/16-2-2",
-          "status": "notstarted"
+          "href": "/site/es/16-1-6",
+          "status": "complete"
         },
         {
-          "id": "16-2-3",
-          "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18",
+          "id": "16-1-7",
+          "title": "Tasa de delitos por lesiones, riñas tumultuarias y secuestros",
           "description": "",
           "keywords": "",
-          "href": "/site/es/16-2-3",
-          "status": "notstarted"
+          "href": "/site/es/16-1-7",
+          "status": "complete"
         },
         {
-          "id": "16-3-1",
-          "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
+          "id": "16-1-8",
+          "title": "Tasa de delitos por tráfico de drogas",
           "description": "",
           "keywords": "",
-          "href": "/site/es/16-3-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-3-2",
-          "title": "Unsentenced detainees as a proportion of overall prison population",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/16-3-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-3-3",
-          "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/16-3-3",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-4-1",
-          "title": "Total value of inward and outward illicit financial flows (in current United States dollars)",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/16-4-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-4-2",
-          "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/16-4-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-5-1",
-          "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/16-5-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-5-2",
-          "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/16-5-2",
-          "status": "notstarted"
+          "href": "/site/es/16-1-8",
+          "status": "complete"
         },
         {
           "id": "16-6-1",
-          "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",
+          "title": "Superávit municipal por habitante",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-6-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-6-2",
-          "title": "Proportion of population satisfied with their last experience of public services",
+          "title": "Endeudamiento municipal por habitante",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-6-2",
-          "status": "notstarted"
+          "status": "complete"
+        },
+        {
+          "id": "16-6-3",
+          "title": "Autonomía de la institución municipal",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-6-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-6-4",
+          "title": "Gasto por habitante",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-6-4",
+          "status": "complete"
+        },
+        {
+          "id": "16-6-5",
+          "title": "Inversión por habitante",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-6-5",
+          "status": "complete"
+        },
+        {
+          "id": "16-6-6",
+          "title": "Índice de transparencia",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-6-6",
+          "status": "complete"
+        },
+        {
+          "id": "16-6-7",
+          "title": "Índice de transparencia económico-financiera",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-6-7",
+          "status": "complete"
+        },
+        {
+          "id": "16-6-8",
+          "title": "Valoración de la población adulta de la gestión municipal",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-6-8",
+          "status": "complete"
         },
         {
           "id": "16-7-1",
-          "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",
+          "title": "Presupuesto destinado a procesos de Presupuestos Participativos Municipales",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-7-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-7-2",
-          "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",
+          "title": "Participación ciudadana en procesos de Presupuestos Participativos Municipales",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-7-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "16-8-1",
-          "title": "Proportion of members and voting rights of developing countries in international organizations",
+          "id": "16-7-3",
+          "title": "Participación elecciones municipales",
           "description": "",
           "keywords": "",
-          "href": "/site/es/16-8-1",
-          "status": "notstarted"
+          "href": "/site/es/16-7-3",
+          "status": "complete"
         },
         {
-          "id": "16-9-1",
-          "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",
+          "id": "16-7-4",
+          "title": "Población adulta que considera que los políticos/as se preocupan por la gente",
           "description": "",
           "keywords": "",
-          "href": "/site/es/16-9-1",
-          "status": "notstarted"
+          "href": "/site/es/16-7-4",
+          "status": "complete"
         },
         {
-          "id": "16-10-1",
-          "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",
+          "id": "16-7-5",
+          "title": "Gasto en participación ciudadana por habitante",
           "description": "",
           "keywords": "",
-          "href": "/site/es/16-10-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-10-2",
-          "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/16-10-2",
-          "status": "notstarted"
+          "href": "/site/es/16-7-5",
+          "status": "complete"
         },
         {
           "id": "16-a-1",
-          "title": "Existence of independent national human rights institutions in compliance with the Paris Principles",
+          "title": "Presupuesto municipal destinado a Cooperación Internacional para el Desarrollo relacionado con el ODS 16",
           "description": "",
           "keywords": "",
           "href": "/site/es/16-a-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "16-b-1",
-          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
+          "id": "16-a-2",
+          "title": "Presupuesto municipal destinado a Educación para el Desarrollo y Ciudadanía Global relacionado con el ODS 16",
           "description": "",
           "keywords": "",
-          "href": "/site/es/16-b-1",
-          "status": "notstarted"
+          "href": "/site/es/16-a-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-a-3",
+          "title": "Presupuesto municipal destinado a Acción Humanitaria y de Emergencia relacionado con el ODS 16",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-a-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-a-4",
+          "title": "Presupuesto municipal de Ayuda Oficial al Desarrollo relacionado con el ODS 16",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-a-4",
+          "status": "complete"
         }]
     }
   },
@@ -1919,187 +2695,139 @@
         
         {
           "id": "17-1-1",
-          "title": "Total government revenue as a proportion of GDP, by source",
+          "title": "Presupuesto municipal destinado a ODS1",
           "description": "",
           "keywords": "",
           "href": "/site/es/17-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-1-2",
-          "title": "Proportion of domestic budget funded by domestic taxes",
+          "title": "Presupuesto municipal destinado a ODS2",
           "description": "",
           "keywords": "",
           "href": "/site/es/17-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
-          "id": "17-2-1",
-          "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",
+          "id": "17-1-3",
+          "title": "Presupuesto municipal destinado a ODS3",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-2-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-3",
+          "status": "complete"
         },
         {
-          "id": "17-3-1",
-          "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income",
+          "id": "17-1-4",
+          "title": "Presupuesto municipal destinado a ODS4",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-3-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-4",
+          "status": "complete"
         },
         {
-          "id": "17-3-2",
-          "title": "Volume of remittances (in United States dollars) as a proportion of total GDP",
+          "id": "17-1-5",
+          "title": "Presupuesto municipal destinado a ODS5",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-3-2",
-          "status": "notstarted"
+          "href": "/site/es/17-1-5",
+          "status": "complete"
         },
         {
-          "id": "17-4-1",
-          "title": "Debt service as a proportion of exports of goods and services",
+          "id": "17-1-6",
+          "title": "Presupuesto municipal destinado a ODS6",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-4-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-6",
+          "status": "complete"
         },
         {
-          "id": "17-5-1",
-          "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries",
+          "id": "17-1-7",
+          "title": "Presupuesto municipal destinado a ODS7",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-5-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-7",
+          "status": "complete"
         },
         {
-          "id": "17-6-1",
-          "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
+          "id": "17-1-8",
+          "title": "Presupuesto municipal destinado a ODS8",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-6-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-8",
+          "status": "complete"
         },
         {
-          "id": "17-7-1",
-          "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",
+          "id": "17-1-9",
+          "title": "Presupuesto municipal destinado a ODS9",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-7-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-9",
+          "status": "complete"
         },
         {
-          "id": "17-8-1",
-          "title": "Proportion of individuals using the Internet",
+          "id": "17-1-10",
+          "title": "Presupuesto municipal destinado a ODS10",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-8-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-10",
+          "status": "complete"
         },
         {
-          "id": "17-9-1",
-          "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries",
+          "id": "17-1-11",
+          "title": "Presupuesto municipal destinado a ODS11",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-9-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-11",
+          "status": "complete"
         },
         {
-          "id": "17-10-1",
-          "title": "Worldwide weighted tariff-average",
+          "id": "17-1-12",
+          "title": "Presupuesto municipal destinado a ODS12",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-10-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-12",
+          "status": "complete"
         },
         {
-          "id": "17-11-1",
-          "title": "Developing countries’ and least developed countries’ share of global exports",
+          "id": "17-1-13",
+          "title": "Presupuesto municipal destinado a ODS13",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-11-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-13",
+          "status": "complete"
         },
         {
-          "id": "17-12-1",
-          "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States",
+          "id": "17-1-14",
+          "title": "Presupuesto municipal destinado a ODS14",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-12-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-14",
+          "status": "complete"
         },
         {
-          "id": "17-13-1",
-          "title": "Macroeconomic Dashboard",
+          "id": "17-1-15",
+          "title": "Presupuesto municipal destinado a ODS15",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-13-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-15",
+          "status": "complete"
         },
         {
-          "id": "17-14-1",
-          "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development",
+          "id": "17-1-16",
+          "title": "Presupuesto municipal destinado a ODS16",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-14-1",
-          "status": "notstarted"
+          "href": "/site/es/17-1-16",
+          "status": "complete"
         },
         {
-          "id": "17-15-1",
-          "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation",
+          "id": "17-1-17",
+          "title": "Presupuesto municipal destinado a ODS17",
           "description": "",
           "keywords": "",
-          "href": "/site/es/17-15-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-16-1",
-          "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/17-16-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-17-1",
-          "title": "Amount in United States dollars committed to public-private partnerships for infrastructure",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/17-17-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-18-2",
-          "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/17-18-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-18-3",
-          "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/17-18-3",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-19-1",
-          "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/17-19-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-19-2",
-          "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/17-19-2",
-          "status": "notstarted"
+          "href": "/site/es/17-1-17",
+          "status": "complete"
         }]
     }
   }]
