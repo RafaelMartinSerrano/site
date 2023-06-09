@@ -1,6 +1,6 @@
 ---
 layout: news
-title: News & Events
+title: Actualizaciones
 permalink: /es/news/
 language: es
 ---

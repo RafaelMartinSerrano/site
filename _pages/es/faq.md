@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (FAQ)
+title: Preguntas Frecuentes(FAQ)
 permalink: /es/faq/
 layout: page
 language: es
