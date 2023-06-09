@@ -5,4 +5,7 @@ title: Categories
 language: es
 ---
 
-Translation needed.
+## Publicaciones por categoría
+
+Aquí tienes una lista de publicaciones, agrupadas por categoría:
+
