@@ -2642,6 +2642,10 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
   color: black;
   font-weight: 200; }
 
+.navbar-nav .nav-link {
+  border: 1px solid;
+  padding: 10px; }
+
 .header-toggles a {
   margin: 0 0 0 5px; }
 
